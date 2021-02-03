@@ -1,3 +1,5 @@
+import '../index.scss';
+
 import {
   ptBt,
   en

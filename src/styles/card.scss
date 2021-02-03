@@ -1,0 +1,7 @@
+.card {
+  $red: red;
+
+  &--red {
+    background-color: $red;
+  }
+}

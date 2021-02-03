@@ -26,7 +26,17 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \******************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _helloWorld__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./helloWorld */ \"./src/scripts/helloWorld.js\");\n\nconsole.log('cheguei aqui');\n(0,_helloWorld__WEBPACK_IMPORTED_MODULE_0__.ptBt)();\n\n//# sourceURL=webpack://project-webpack-config/./src/scripts/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _index_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../index.scss */ \"./src/index.scss\");\n/* harmony import */ var _helloWorld__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./helloWorld */ \"./src/scripts/helloWorld.js\");\n\n\nconsole.log('cheguei aqui 2');\n(0,_helloWorld__WEBPACK_IMPORTED_MODULE_1__.ptBt)();\n\n//# sourceURL=webpack://project-webpack-config/./src/scripts/index.js?");
+
+/***/ }),
+
+/***/ "./src/index.scss":
+/*!************************!*\
+  !*** ./src/index.scss ***!
+  \************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack://project-webpack-config/./src/index.scss?");
 
 /***/ })
 
